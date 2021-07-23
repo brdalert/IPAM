@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac stuff
+.DS_Store
+
+# Distribution / packaging
+
+venv/
+env/
+dist/
+node_modules/
+
+# Caches
+.cache
+docs/_build/
+
+
+secret_key.txt
